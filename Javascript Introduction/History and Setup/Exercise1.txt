@@ -1,0 +1,23 @@
+1. What is the difference between JavaScript and ECMA?
+
+	ECMA is a standard that dictates specific features and a set of functionality. Javascript is an implementation of ECMA and many Javascript engines exist that implement ECMA. Currently, Google's V8 engine is the most popular JS engine.
+
+2. Who is Brendan Eich?
+
+	Brendan Eich is the creator of JavaScript. He created the language in 10 days in May 1995.
+
+3. How do you hide and show the Chrome console?
+
+	Use option + command + j to hide the console on mac.
+
+	Use option + command + j to show the console on mac.
+
+4. Create a simple page with a script tag. Inside of the script tag declare a couple variables and then log their values to the console.
+
+	see testsite.html
+
+5. Research prompt and confirm - what do they do?
+
+	Prompt displays a pop-up box with an optional message asking the user to input some text.
+
+	Confirm displays a pop-up with an optional message and two buttons: OK and Cancel.
